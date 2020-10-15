@@ -1,4 +1,3 @@
-# Fraud_Detection
 The data is from Kaggle competition named Creditcard.CSV with PCA transformed features.
 
 The target of this competition is to solve data imbalance problem, find outlinears. 
